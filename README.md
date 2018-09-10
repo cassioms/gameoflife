@@ -10,4 +10,5 @@ python main.py
 
 ## Interaction
 
-Click on the screen to toggle between live and dead cell
+- Click on the screen to toggle between live and dead cell
+- Hold the period (.) key to pause the simulation
